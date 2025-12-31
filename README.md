@@ -1,4 +1,4 @@
-# tor-search-mcp
+# Tor Search MCP
 
 **Absolutely anonymous knowledge retrieval** for your LLM: the world's first [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that exposes tools to search the web and fetch pages anonymously through [Tor](https://www.torproject.org/). Search results come from DuckDuckGo, and page content is retrieved through an actual Tor Browser instance, preserving the universal fingerprint that makes Tor users indistinguishable from one another.
 
